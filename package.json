@@ -1,16 +1,16 @@
 {
-  "name": "hubot-pugme",
-  "description": "Pugme is the most important hubot script",
+  "name": "hubot-chihuahuame",
+  "description": "Chihuahuame is the most important hubot script",
   "version": "0.1.0",
-  "author": "Josh Nichols <technicalpickles@github.com>",
+  "author": "Curtis Cook <curtiscook@github.com>",
   "license": "MIT",
-  "keywords": "hubot, hubot-scripts, pugs",
+  "keywords": "hubot, hubot-scripts, chihuahuas",
   "repository": {
     "type": "git",
-    "url": "git://github.com/hubot-scripts/hubot-pugme.git"
+    "url": "git://github.com/curtiscook/hubot-chihuahuame.git"
   },
   "bugs": {
-    "url": "https://github.com/hubot-scripts/hubot-pugme/issues"
+    "url": "https://github.com/curtiscook/hubot-chihuahuame/issues"
   },
   "dependencies": {},
   "peerDependencies": {
